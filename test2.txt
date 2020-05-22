@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 24AE-50A6
+
+ Directory of C:\Users\Lenovo\Desktop\test
+
+05/22/2020  06:22 PM    <DIR>          .
+05/22/2020  06:22 PM    <DIR>          ..
+05/22/2020  04:42 PM               452 test.html
+05/22/2020  04:42 PM               402 test.htmlt
+05/22/2020  04:41 PM               351 test.txt
+05/22/2020  06:22 PM                 0 test2.txt
+               4 File(s)          1,205 bytes
+               2 Dir(s)  61,710,815,232 bytes free
